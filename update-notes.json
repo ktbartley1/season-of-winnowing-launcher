@@ -1,0 +1,4 @@
+{
+  "2026.11.02-playtest.1": "Launcher update test\n\nThis build brings the playtest up to the current November 2 project, replacing the October 25 baseline.\n\nTesting focus\n• Install the update over your existing installation.\n• Confirm the game launches and your settings remain intact.\n• Try your student loadouts and report any gameplay or visual issues.\n\nThe build passed the editor shader and gameplay checks. Multiplayer and long-session performance still need playtesting.",
+  "2026.10.25-baseline": "Initial private launcher baseline using the October 25 Windows build. Used to verify account access, installation, and game launching."
+}
